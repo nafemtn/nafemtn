@@ -1,4 +1,4 @@
-Hi 👋 My name is Léna =====================  Web développeur Web junior --------------------------  * 🌍  I'm based in Paris * ✉️  You can contact me at [martin-p@etna-alternance.net](mailto:martin-p@etna-alternance.net ) * ⚡  I'm a former barista :)
+Hi 👋 My name is Léna =====================  Developpeur Web junior --------------------------  * 🌍  I'm based in Paris * ✉️  You can contact me at [martin-p@etna-alternance.net](mailto:martin-p@etna-alternance.net ) * ⚡  I'm a former barista :)
 
 ### Skills
 
